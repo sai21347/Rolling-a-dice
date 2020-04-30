@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import random
 print("This is dice stimulator")
 x = "y"
@@ -48,13 +42,11 @@ while x == "y":
     x = input("press y to roll again")
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
 
 
 
